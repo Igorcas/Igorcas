@@ -1,12 +1,9 @@
 # Sobre mim
 
 
-- 👋 olá, eu sou @Igorcas
-- 👀 Meu email de contato igor.onishi.castro@escola.pr.gov.br
--    Não deixe para amanhã oque vc pode fazer na proxima semana...
 
 
-<!---
-Igorcas/Igorcas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Olá, meu nome é **IGOR EDUARDO**
+- :+1: Meu email de contato é igor.onishi.castro@escola.pr.gov.br
+- 👀 Eu estou interessado em aprender a programar novas linguagens.
+- 🌱 Eu estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch
